@@ -233,7 +233,17 @@ body {
   }
   /* reach out styles end */
 
+.start-building-habits {
+    font-size: 55px;
+    color: #fce138;
+    padding: 0 100px 20px 100px;
+    display: inline;
+    border-bottom: 3px solid;
+}
 
+.start-building-habits p {
+    color: aliceblue;
+}
   
 
 
